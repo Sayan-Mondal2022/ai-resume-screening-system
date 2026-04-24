@@ -1,5 +1,8 @@
+# Virtual Env
 .venv
 
 docs/
+__pycache__/
 
+# Python Environment variable
 .env
