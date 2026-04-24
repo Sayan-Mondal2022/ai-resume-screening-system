@@ -8,7 +8,7 @@ This project evaluates the fit between a candidate's resume and a job descriptio
 The architecture is fully modularized, cleanly separating concerns across document parsing, keyword extraction, embedding generation, scoring, and UI rendering.
 
 ## Demo Link
-[Insert Demo Link Here](#) *(Replace with actual demo link when available)*
+[Click Here](https://ai-resume-screening-system-01.streamlit.app)
 
 ## Tech Stack
 * **Language**: Python 3.11
